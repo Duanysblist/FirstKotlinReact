@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirstKotlinReact-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="FirstKotlinReact-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="FirstKotlinReact.main" />
+    </root>
+  </artifact>
+</component>
